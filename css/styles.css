@@ -1,4 +1,8 @@
-#Maybox{
+h1{
+	font-family: sans-serif;
+}
+
+#mayBox{
 	
     padding-top: 1cm
 	padding-left:3cm;
@@ -48,8 +52,33 @@ h3{
 	padding-bottom: .5cm;
 }
 
-
-
+#aprilBox{
+	padding-top: 1cm
+	padding-left:3cm;
+	width: 600px;
+    height: 250px;
+    border: 1px lightgrey;
+    box-sizing: border-box;
+	background: lightgrey;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 200;
+}
+#fooseballdate{
+	padding-top: 1cm;
+}
+#subApril1{
+	background: whitesmoke;
+}
+#subApril2{
+	background: whitesmoke;
+}
+table{
+	background: whitesmoke;
+}
+th{
+	background-color:lightgray;
+}
 
 
 
